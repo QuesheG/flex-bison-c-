@@ -3,6 +3,7 @@ Flex + Bison naive implementation for a compiler of a c like language (c-)
 
 # How to run
 In order to run this properly, first you need the [Flex (Fast Lexical Analyzer)](https://en.wikipedia.org/wiki/Flex_(lexical_analyser_generator)) and the [Bison](https://www.gnu.org/software/bison/) software to generate the right files
+
 To run, simply type:
 ```bash
 bison -d parser
