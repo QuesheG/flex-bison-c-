@@ -11,4 +11,4 @@ flex lexer.l
 gcc parser.tab.c lex.yy.c structs.c
 ```
 # Usage
-Now run the newly made .exe with a .c- file (the language description can be found (sadly i only found it in portugues) alongside the files in this repo) and get a AST (Abstract Syntax Tree), useful for translating the program to assembly using much more complex concepts that i couldn't cover.
+Now run the newly made .exe with a .c- file (the language description can be found (sadly i only found it in portuguese) alongside the files in this repo) and get a AST (Abstract Syntax Tree), useful for translating the program to assembly using much more complex concepts that i couldn't cover.
